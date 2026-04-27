@@ -1,2 +1,2 @@
 usuario: Nicolas Vargas
-correo: nico123@gmail.com
+correo: nico123@gmail.es
